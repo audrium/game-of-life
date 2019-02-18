@@ -7,7 +7,7 @@
 - Any live cell with more than three live neighbours dies, as if by overcrowding.
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
-More info about the game [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). 
+More info about the game: [wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), [youtube](https://www.youtube.com/watch?v=C2vgICfQawE).
 
 Implementation of Conway's game is done in JavaScript using React.js
 
