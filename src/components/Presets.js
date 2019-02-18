@@ -12,7 +12,7 @@ const options = [
 class Presets extends React.Component {
 
     state = {
-        preset: null
+        preset: 'line'
     }
 
     onLoad = () => {
@@ -29,6 +29,7 @@ class Presets extends React.Component {
                         options={options}
                         selection
                         className='label'
+                        value={this.state.preset}
                         onChange={(e, { value }) => this.setState({ preset: value })}
                     />
                     <Button

@@ -8,7 +8,7 @@ import { loadPreset } from '../presets';
 class Game extends React.Component {
 
   state = {
-    world: createWorld(),
+    world: loadPreset('line'),
     generation: 0,
     playing: false,
   }
