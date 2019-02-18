@@ -1,5 +1,5 @@
 export const WORLD_SIZE = 70;
-export const GENERATION_TIME = 50;
+export const GENERATION_TIME = 100;
 export const ALIVE = 1;
 export const DEAD = 0;
 
