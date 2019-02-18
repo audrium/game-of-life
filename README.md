@@ -12,3 +12,5 @@ More info about the game [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of
 Implementation of Conway's game is done in JavaScript using React.js
 
 Live demo [here](https://audrium.github.io/game-of-life).
+
+![](gol-giphy.gif)
